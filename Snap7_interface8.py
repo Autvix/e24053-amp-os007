@@ -20,6 +20,7 @@ client = snap7.client.Client()
 connected = False
 simulacao_ativa = False
 rodando = True
+teste = false
 
 
 # Variaveis para Simulação
